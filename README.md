@@ -1,5 +1,7 @@
+```
 <dependency>
-    <groupId>icu.qimuu</groupId>
+    <groupId>vin.suki</groupId>
     <artifactId>api-sdk</artifactId>
-    <version>0.0.4</version>
+    <version>1.0</version>
 </dependency>
+```
