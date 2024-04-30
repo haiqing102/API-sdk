@@ -1,4 +1,4 @@
-### Maven dependency
+### 🍊Maven dependency：
 ```
 <dependency>
     <groupId>vin.suki</groupId>
