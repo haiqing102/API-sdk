@@ -109,7 +109,7 @@ public class ApiServiceImpl implements ApiService {
 			throw new BusinessException(ResponseCode.OPERATION_ERROR, "请求路径不存在");
 		}
 
-		path = path.substring(path.indexOf("/api"));
+		path = path.substring(path.indexOf("/api/"));
 		log.info("【ApiService】请求方法：{}，请求路径：{}，请求参数：{}", method, path, request.getRequestParams());
 
 		HttpRequest httpRequest;

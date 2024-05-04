@@ -12,10 +12,10 @@
 
     <groupId>vin.suki</groupId>
     <artifactId>api-sdk</artifactId>
-    <version>1.0</version>
+    <version>1.0.2</version>
     <name>api-sdk</name>
     <description>API-SDK开发工具包</description>
-    <url>https://github.com/haiqing102/api-sdk</url>
+    <url>https://github.com/xxxxx/api-sdk</url>
 
     <licenses>
         <license>
@@ -28,7 +28,7 @@
         <developer>
             <id>haiqing</id>
             <name>haiqing</name>
-            <email>363563768@qq.com</email>
+            <email>xxxxx@qq.com</email>
             <roles>
                 <role>Project Manager</role>
                 <role>Architect</role>
@@ -37,10 +37,10 @@
     </developers>
 
     <scm>
-        <connection>https://github.com/haiqing102/api-sdk.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:haiqing102/api-sdk.git
+        <connection>https://github.com/xxxxx/api-sdk.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:xxxxx/api-sdk.git
         </developerConnection>
-        <url>https://github.com/haiqing102/api-sdk</url>
+        <url>https://github.com/xxxxx/api-sdk</url>
     </scm>
 
     <properties>
@@ -91,7 +91,7 @@
                 <version>0.4.0</version>
                 <extensions>true</extensions>
                 <configuration>
-                    <publishingServerId>haiqing</publishingServerId>
+                    <publishingServerId>xxxxx</publishingServerId>
                     <tokenAuth>true</tokenAuth>
                 </configuration>
             </plugin>
