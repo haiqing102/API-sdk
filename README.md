@@ -1,4 +1,4 @@
-### 🍊Maven dependency：
+### 🍊Maven Newest dependency：
 ```
 <dependency>
     <groupId>vin.suki</groupId>
