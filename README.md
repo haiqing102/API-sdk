@@ -6,4 +6,3 @@
     <version>1.0.2</version>
 </dependency>
 ```
-![login](https://img.suki.vin/other/index.png)
