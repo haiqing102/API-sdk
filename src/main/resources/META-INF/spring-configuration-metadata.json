@@ -2,8 +2,8 @@
   "groups": [
     {
       "name": "api.client",
-      "type": "edu.cqupt.apisdk.client.ApiClient",
-      "sourceType": "edu.cqupt.apisdk.client.ApiClient"
+      "type": "vin.suki.apisdk.client.ApiClient",
+      "sourceType": "vin.suki.apisdk.client.ApiClient"
     }
   ],
   "properties": [
@@ -11,20 +11,20 @@
       "name": "api.client.access-key",
       "type": "java.lang.String",
       "description": "访问密码",
-      "sourceType": "edu.cqupt.apisdk.client.ApiClient"
+      "sourceType": "vin.suki.apisdk.client.ApiClient"
     },
     {
       "name": "api.client.gateway-host",
       "type": "java.lang.String",
       "description": "网关地址",
       "defaultValue": "http://43.138.216.214:9000",
-      "sourceType": "edu.cqupt.apisdk.client.ApiClient"
+      "sourceType": "vin.suki.apisdk.client.ApiClient"
     },
     {
       "name": "api.client.secret-key",
       "type": "java.lang.String",
       "description": "安全密钥",
-      "sourceType": "edu.cqupt.apisdk.client.ApiClient"
+      "sourceType": "vin.suki.apisdk.client.ApiClient"
     }
   ],
   "hints": []

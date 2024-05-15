@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  edu.cqupt.apisdk.config.ApiClientAutoConfig
+  vin.suki.apisdk.config.ApiClientAutoConfig
